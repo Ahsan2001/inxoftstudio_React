@@ -1,6 +1,3 @@
-## Project 3 Shoes Store
-
-
 ### Packages Using in this project
 
 ##### React : 18.2.0
